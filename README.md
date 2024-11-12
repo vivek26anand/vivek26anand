@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/isankien" target="blank"><img src="https://img.shields.io/twitter/follow/isankien?logo=twitter&style=for-the-badge" alt="isankien" /></a> </p>
 
-- 🔭 I’m currently working at **Thinksurf Media LLP**
+- 🔭 I’m currently working at [Studio Almond](https://www.almond.studio/)
 
 - 🌱 I’m currently learning **GraphQL**
 
